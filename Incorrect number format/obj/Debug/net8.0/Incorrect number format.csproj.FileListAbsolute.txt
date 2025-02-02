@@ -1,0 +1,14 @@
+D:\Новая папка\Прог\Incorrect number format\bin\Debug\net8.0\Incorrect number format.exe
+D:\Новая папка\Прог\Incorrect number format\bin\Debug\net8.0\Incorrect number format.deps.json
+D:\Новая папка\Прог\Incorrect number format\bin\Debug\net8.0\Incorrect number format.runtimeconfig.json
+D:\Новая папка\Прог\Incorrect number format\bin\Debug\net8.0\Incorrect number format.dll
+D:\Новая папка\Прог\Incorrect number format\bin\Debug\net8.0\Incorrect number format.pdb
+D:\Новая папка\Прог\Incorrect number format\obj\Debug\net8.0\Incorrect number format.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\Прог\Incorrect number format\obj\Debug\net8.0\Incorrect number format.AssemblyInfoInputs.cache
+D:\Новая папка\Прог\Incorrect number format\obj\Debug\net8.0\Incorrect number format.AssemblyInfo.cs
+D:\Новая папка\Прог\Incorrect number format\obj\Debug\net8.0\Incorrect number format.csproj.CoreCompileInputs.cache
+D:\Новая папка\Прог\Incorrect number format\obj\Debug\net8.0\Incorrect number format.dll
+D:\Новая папка\Прог\Incorrect number format\obj\Debug\net8.0\refint\Incorrect number format.dll
+D:\Новая папка\Прог\Incorrect number format\obj\Debug\net8.0\Incorrect number format.pdb
+D:\Новая папка\Прог\Incorrect number format\obj\Debug\net8.0\Incorrect number format.genruntimeconfig.cache
+D:\Новая папка\Прог\Incorrect number format\obj\Debug\net8.0\ref\Incorrect number format.dll

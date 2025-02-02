@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Incorrect number format/1.0.0": {
+        "runtime": {
+          "Incorrect number format.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Incorrect number format/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
