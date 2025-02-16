@@ -1,0 +1,14 @@
+E:\Projects\Arrays1\Arrays1\bin\Debug\net9.0\Arrays1.exe
+E:\Projects\Arrays1\Arrays1\bin\Debug\net9.0\Arrays1.deps.json
+E:\Projects\Arrays1\Arrays1\bin\Debug\net9.0\Arrays1.runtimeconfig.json
+E:\Projects\Arrays1\Arrays1\bin\Debug\net9.0\Arrays1.dll
+E:\Projects\Arrays1\Arrays1\bin\Debug\net9.0\Arrays1.pdb
+E:\Projects\Arrays1\Arrays1\obj\Debug\net9.0\Arrays1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Arrays1\Arrays1\obj\Debug\net9.0\Arrays1.AssemblyInfoInputs.cache
+E:\Projects\Arrays1\Arrays1\obj\Debug\net9.0\Arrays1.AssemblyInfo.cs
+E:\Projects\Arrays1\Arrays1\obj\Debug\net9.0\Arrays1.csproj.CoreCompileInputs.cache
+E:\Projects\Arrays1\Arrays1\obj\Debug\net9.0\Arrays1.dll
+E:\Projects\Arrays1\Arrays1\obj\Debug\net9.0\refint\Arrays1.dll
+E:\Projects\Arrays1\Arrays1\obj\Debug\net9.0\Arrays1.pdb
+E:\Projects\Arrays1\Arrays1\obj\Debug\net9.0\Arrays1.genruntimeconfig.cache
+E:\Projects\Arrays1\Arrays1\obj\Debug\net9.0\ref\Arrays1.dll
