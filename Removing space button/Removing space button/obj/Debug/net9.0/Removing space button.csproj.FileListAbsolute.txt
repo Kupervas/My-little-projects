@@ -1,0 +1,14 @@
+E:\Projects\Removing space button\Removing space button\bin\Debug\net9.0\Removing space button.exe
+E:\Projects\Removing space button\Removing space button\bin\Debug\net9.0\Removing space button.deps.json
+E:\Projects\Removing space button\Removing space button\bin\Debug\net9.0\Removing space button.runtimeconfig.json
+E:\Projects\Removing space button\Removing space button\bin\Debug\net9.0\Removing space button.dll
+E:\Projects\Removing space button\Removing space button\bin\Debug\net9.0\Removing space button.pdb
+E:\Projects\Removing space button\Removing space button\obj\Debug\net9.0\Removing space button.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Removing space button\Removing space button\obj\Debug\net9.0\Removing space button.AssemblyInfoInputs.cache
+E:\Projects\Removing space button\Removing space button\obj\Debug\net9.0\Removing space button.AssemblyInfo.cs
+E:\Projects\Removing space button\Removing space button\obj\Debug\net9.0\Removing space button.csproj.CoreCompileInputs.cache
+E:\Projects\Removing space button\Removing space button\obj\Debug\net9.0\Removing space button.dll
+E:\Projects\Removing space button\Removing space button\obj\Debug\net9.0\refint\Removing space button.dll
+E:\Projects\Removing space button\Removing space button\obj\Debug\net9.0\Removing space button.pdb
+E:\Projects\Removing space button\Removing space button\obj\Debug\net9.0\Removing space button.genruntimeconfig.cache
+E:\Projects\Removing space button\Removing space button\obj\Debug\net9.0\ref\Removing space button.dll
