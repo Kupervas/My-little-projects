@@ -1,0 +1,14 @@
+D:\Новая папка\Прог\List 'to do'\bin\Debug\net8.0\List 'to do'.exe
+D:\Новая папка\Прог\List 'to do'\bin\Debug\net8.0\List 'to do'.deps.json
+D:\Новая папка\Прог\List 'to do'\bin\Debug\net8.0\List 'to do'.runtimeconfig.json
+D:\Новая папка\Прог\List 'to do'\bin\Debug\net8.0\List 'to do'.dll
+D:\Новая папка\Прог\List 'to do'\bin\Debug\net8.0\List 'to do'.pdb
+D:\Новая папка\Прог\List 'to do'\obj\Debug\net8.0\List 'to do'.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\Прог\List 'to do'\obj\Debug\net8.0\List 'to do'.AssemblyInfoInputs.cache
+D:\Новая папка\Прог\List 'to do'\obj\Debug\net8.0\List 'to do'.AssemblyInfo.cs
+D:\Новая папка\Прог\List 'to do'\obj\Debug\net8.0\List 'to do'.csproj.CoreCompileInputs.cache
+D:\Новая папка\Прог\List 'to do'\obj\Debug\net8.0\List 'to do'.dll
+D:\Новая папка\Прог\List 'to do'\obj\Debug\net8.0\refint\List 'to do'.dll
+D:\Новая папка\Прог\List 'to do'\obj\Debug\net8.0\List 'to do'.pdb
+D:\Новая папка\Прог\List 'to do'\obj\Debug\net8.0\List 'to do'.genruntimeconfig.cache
+D:\Новая папка\Прог\List 'to do'\obj\Debug\net8.0\ref\List 'to do'.dll
