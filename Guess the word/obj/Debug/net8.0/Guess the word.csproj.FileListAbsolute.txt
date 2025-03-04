@@ -1,0 +1,14 @@
+D:\Новая папка\Прог\Guess the word\bin\Debug\net8.0\Guess the word.exe
+D:\Новая папка\Прог\Guess the word\bin\Debug\net8.0\Guess the word.deps.json
+D:\Новая папка\Прог\Guess the word\bin\Debug\net8.0\Guess the word.runtimeconfig.json
+D:\Новая папка\Прог\Guess the word\bin\Debug\net8.0\Guess the word.dll
+D:\Новая папка\Прог\Guess the word\bin\Debug\net8.0\Guess the word.pdb
+D:\Новая папка\Прог\Guess the word\obj\Debug\net8.0\Guess the word.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\Прог\Guess the word\obj\Debug\net8.0\Guess the word.AssemblyInfoInputs.cache
+D:\Новая папка\Прог\Guess the word\obj\Debug\net8.0\Guess the word.AssemblyInfo.cs
+D:\Новая папка\Прог\Guess the word\obj\Debug\net8.0\Guess the word.csproj.CoreCompileInputs.cache
+D:\Новая папка\Прог\Guess the word\obj\Debug\net8.0\Guess the word.dll
+D:\Новая папка\Прог\Guess the word\obj\Debug\net8.0\refint\Guess the word.dll
+D:\Новая папка\Прог\Guess the word\obj\Debug\net8.0\Guess the word.pdb
+D:\Новая папка\Прог\Guess the word\obj\Debug\net8.0\Guess the word.genruntimeconfig.cache
+D:\Новая папка\Прог\Guess the word\obj\Debug\net8.0\ref\Guess the word.dll
