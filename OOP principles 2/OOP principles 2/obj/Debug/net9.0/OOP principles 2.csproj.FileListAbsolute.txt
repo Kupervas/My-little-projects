@@ -1,0 +1,14 @@
+E:\Projects\OOP principles 2\OOP principles 2\obj\Debug\net9.0\OOP principles 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\OOP principles 2\OOP principles 2\obj\Debug\net9.0\OOP principles 2.AssemblyInfoInputs.cache
+E:\Projects\OOP principles 2\OOP principles 2\obj\Debug\net9.0\OOP principles 2.AssemblyInfo.cs
+E:\Projects\OOP principles 2\OOP principles 2\obj\Debug\net9.0\OOP principles 2.csproj.CoreCompileInputs.cache
+E:\Projects\OOP principles 2\OOP principles 2\bin\Debug\net9.0\OOP principles 2.exe
+E:\Projects\OOP principles 2\OOP principles 2\bin\Debug\net9.0\OOP principles 2.deps.json
+E:\Projects\OOP principles 2\OOP principles 2\bin\Debug\net9.0\OOP principles 2.runtimeconfig.json
+E:\Projects\OOP principles 2\OOP principles 2\bin\Debug\net9.0\OOP principles 2.dll
+E:\Projects\OOP principles 2\OOP principles 2\bin\Debug\net9.0\OOP principles 2.pdb
+E:\Projects\OOP principles 2\OOP principles 2\obj\Debug\net9.0\OOP principles 2.dll
+E:\Projects\OOP principles 2\OOP principles 2\obj\Debug\net9.0\refint\OOP principles 2.dll
+E:\Projects\OOP principles 2\OOP principles 2\obj\Debug\net9.0\OOP principles 2.pdb
+E:\Projects\OOP principles 2\OOP principles 2\obj\Debug\net9.0\OOP principles 2.genruntimeconfig.cache
+E:\Projects\OOP principles 2\OOP principles 2\obj\Debug\net9.0\ref\OOP principles 2.dll
